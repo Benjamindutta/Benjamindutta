@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benjamindutta
-- 👀 I’m interested in webdevelopment
+- 👀 I’m interested in webdevelopment machine learning.
 - 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on any project on javascript
 
