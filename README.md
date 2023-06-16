@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benjamindutta
-- 👀 I’m interested in webdevelopment .
-- 🌱 I’m currently learning webdevelopment .
-- 💞️ I’m looking to collaborate on any project on javascript .
+- 👀 I’m interested in fullstack development  .
+- 🌱I am familiar with javascript, java , React ,Springboot ,SQL
+- 💞️ I’m looking to collaborate on any project  .
 
 <!---
 Benjamindutta/Benjamindutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
