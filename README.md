@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benjamindutta
 - 👀 I’m interested in fullstack development  .
-- 🌱I am familiar with javascript, java , React ,Springboot ,SQL, HTML, CSS, kubernetes, docker, AWS
+- 🌱I am familiar with javascript ,typescript , java , React ,Springboot ,SQL, HTML, CSS, kubernetes, docker, AWS
 - 💞️ I’m looking to collaborate on any project  .
 
 
